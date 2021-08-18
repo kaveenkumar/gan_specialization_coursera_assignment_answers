@@ -1,0 +1,2 @@
+# gan_specialization_coursera_assignment_answers
+programming assignment answers to GAN specialization course on coursera
